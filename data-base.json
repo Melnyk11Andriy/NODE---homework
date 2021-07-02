@@ -6,5 +6,5 @@
     {"id": 5, "name": "Edward", "age": 29, "login": "weird@yahoo.com", "password": "vbn7911"},
     {"id": 6, "name": "Francesca", "age": 31, "login": "morti@google.com", "password": "nmb3446"},
     {"id": 7, "name": "George", "age": 33, "login": "bensso@yahoo.com", "password": "qwe987"},
-    {"id": 8, "name": "Helen", "age": 35, "login": "stoke@yahoo.com", "password": "nmb3446"},
-];
+    {"id": 8, "name": "Helen", "age": 35, "login": "stoke@yahoo.com", "password": "nmb3446"}
+]
