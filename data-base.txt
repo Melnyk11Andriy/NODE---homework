@@ -1,0 +1,10 @@
+[
+    {"id": 1, "name": "Archibald", "age": 21, "login": "archi@yahoo.com", "password": "asd123"},
+    {"id": 2, "name": "Barry", "age": 23, "login": "hawkins@yahoo.com", "password": "fgh456"},
+    {"id": 3, "name": "Cindy", "age": 25, "login": "crown@gmail.com", "password": "jkl789"},
+    {"id": 4, "name": "Diana", "age": 27, "login": "winzzz@gmail.com", "password": "zxc135"},
+    {"id": 5, "name": "Edward", "age": 29, "login": "weird@yahoo.com", "password": "vbn7911"},
+    {"id": 6, "name": "Francesca", "age": 31, "login": "morti@google.com", "password": "nmb3446"},
+    {"id": 7, "name": "George", "age": 33, "login": "bensso@yahoo.com", "password": "qwe987"},
+    {"id": 8, "name": "Helen", "age": 35, "login": "stoke@yahoo.com", "password": "nmb3446"},
+];
